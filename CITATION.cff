@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Noraxon-To-OpenSim-MATLABpipeline
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Vicki
+    family-names: Wang
+    email: vzw4@pitt.edu
+    affiliation: University of Pittsburgh
+    orcid: 'https://orcid.org/0009-0005-2461-0967'
+repository-code: 'https://github.com/vzw4/Noraxon-To-OpenSim-MATLABpipeline'
+abstract: >-
+  MATLAB pipeline to batch process multiple trials for a
+  single subject at a time. Calculates joint kinematics and
+  kinetics from Noraxon .csv exports.
